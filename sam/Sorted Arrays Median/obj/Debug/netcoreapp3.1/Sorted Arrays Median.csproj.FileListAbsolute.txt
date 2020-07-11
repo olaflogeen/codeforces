@@ -1,0 +1,13 @@
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\bin\Debug\netcoreapp3.1\Sorted Arrays Median.exe
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\bin\Debug\netcoreapp3.1\Sorted Arrays Median.deps.json
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\bin\Debug\netcoreapp3.1\Sorted Arrays Median.runtimeconfig.json
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\bin\Debug\netcoreapp3.1\Sorted Arrays Median.runtimeconfig.dev.json
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\bin\Debug\netcoreapp3.1\Sorted Arrays Median.dll
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\bin\Debug\netcoreapp3.1\Sorted Arrays Median.pdb
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\obj\Debug\netcoreapp3.1\Sorted Arrays Median.csprojAssemblyReference.cache
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\obj\Debug\netcoreapp3.1\Sorted Arrays Median.AssemblyInfoInputs.cache
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\obj\Debug\netcoreapp3.1\Sorted Arrays Median.AssemblyInfo.cs
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\obj\Debug\netcoreapp3.1\Sorted Arrays Median.csproj.CoreCompileInputs.cache
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\obj\Debug\netcoreapp3.1\Sorted Arrays Median.dll
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\obj\Debug\netcoreapp3.1\Sorted Arrays Median.pdb
+C:\Users\olafh\Documents\Programing\codeforces\sam\Sorted Arrays Median\obj\Debug\netcoreapp3.1\Sorted Arrays Median.genruntimeconfig.cache

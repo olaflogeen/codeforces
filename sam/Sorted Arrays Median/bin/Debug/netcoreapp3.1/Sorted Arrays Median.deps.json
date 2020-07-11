@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sorted Arrays Median/1.0.0": {
+        "runtime": {
+          "Sorted Arrays Median.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorted Arrays Median/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
