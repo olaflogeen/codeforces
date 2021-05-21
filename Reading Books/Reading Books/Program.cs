@@ -1,4 +1,9 @@
-﻿using System;
+/**
+* Code Forces - Problem 1374 E1
+* https://codeforces.com/contest/1374/problem/E1
+*/
+
+using System;
 using System.IO;
 using System.Collections.Generic;
 
