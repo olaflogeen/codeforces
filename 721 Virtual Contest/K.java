@@ -16,16 +16,15 @@ public class K{
         input.close();
     }
 
-    public static int findLargest(int a, int last, int and){
-        and = a & last & and;
-        if (and == 0){
-            return last;
-        }else{
-            return findLargest(a, last-1, and);
+    public static int findLargest(int n){
+        int what = 0;
+        for (int ix = 0; ix < 64;++ix){
+            what += (int) Math.pow(2, ix);
+            if ((n & (~what) ) == 0)
+                return what - (int) Math.pow(2,ix);
         }
+        return 0;
     }
 
-    public static int findLargest(int a){
-        return findLargest(a, a, a);
-    }
+    
 }
