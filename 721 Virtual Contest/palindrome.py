@@ -102,7 +102,14 @@ class Game:
             return "BOB"
         else:
             return "ALICE"
-        
+
+def calculate_win(s, l):
+    zeros = count_signs('0', s)
+    if (zeros == 1):
+        return "BOB"
+    if (zeros % 2 == 1):
+        return "ALICE"
+    return "BOB"
 
 #Get the number of tests
 t = int(input())
@@ -113,9 +120,9 @@ for i in range(t):
     length = int(input())
     #Get the actual string
     s = input()
-    game = Game(s, length)
-    winner = game.play()
-    winners.append(winner)
+    #game = Game(s, length)
+    #win = game.play()
+    winners.append(calculate_win(s, length))
 
 for w in winners:
     print(w)
