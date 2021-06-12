@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olafh\\Documents\\Programing\\codeforces\\IsNumber\\IsNumber\\IsNumber.csproj": {}
+    "C:\\Users\\ologi\\OneDrive\\Dokumenty\\Programing\\codeforces\\codeforces\\Other rounds\\IsNumber\\IsNumber\\IsNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olafh\\Documents\\Programing\\codeforces\\IsNumber\\IsNumber\\IsNumber.csproj": {
+    "C:\\Users\\ologi\\OneDrive\\Dokumenty\\Programing\\codeforces\\codeforces\\Other rounds\\IsNumber\\IsNumber\\IsNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olafh\\Documents\\Programing\\codeforces\\IsNumber\\IsNumber\\IsNumber.csproj",
+        "projectUniqueName": "C:\\Users\\ologi\\OneDrive\\Dokumenty\\Programing\\codeforces\\codeforces\\Other rounds\\IsNumber\\IsNumber\\IsNumber.csproj",
         "projectName": "IsNumber",
-        "projectPath": "C:\\Users\\olafh\\Documents\\Programing\\codeforces\\IsNumber\\IsNumber\\IsNumber.csproj",
-        "packagesPath": "C:\\Users\\olafh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olafh\\Documents\\Programing\\codeforces\\IsNumber\\IsNumber\\obj\\",
+        "projectPath": "C:\\Users\\ologi\\OneDrive\\Dokumenty\\Programing\\codeforces\\codeforces\\Other rounds\\IsNumber\\IsNumber\\IsNumber.csproj",
+        "packagesPath": "C:\\Users\\ologi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ologi\\OneDrive\\Dokumenty\\Programing\\codeforces\\codeforces\\Other rounds\\IsNumber\\IsNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\olafh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ologi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
         }
       }
     }

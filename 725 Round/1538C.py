@@ -25,5 +25,8 @@ def main():
 def find_pairs(array):
     return 0
 
+def binary_search(array, obj):
+    pass
+
 if __name__ == "__main__":
     main()

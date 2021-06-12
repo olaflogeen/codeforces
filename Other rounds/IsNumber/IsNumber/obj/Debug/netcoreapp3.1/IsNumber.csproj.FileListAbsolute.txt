@@ -10,3 +10,16 @@ C:\Users\olafh\Documents\Programing\codeforces\IsNumber\IsNumber\obj\Debug\netco
 C:\Users\olafh\Documents\Programing\codeforces\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.dll
 C:\Users\olafh\Documents\Programing\codeforces\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.pdb
 C:\Users\olafh\Documents\Programing\codeforces\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.genruntimeconfig.cache
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.exe
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.deps.json
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.runtimeconfig.json
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.runtimeconfig.dev.json
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.dll
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.pdb
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.csprojAssemblyReference.cache
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.AssemblyInfoInputs.cache
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.AssemblyInfo.cs
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.csproj.CoreCompileInputs.cache
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.dll
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.pdb
+C:\Users\ologi\OneDrive\Dokumenty\Programing\codeforces\codeforces\Other rounds\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.genruntimeconfig.cache
